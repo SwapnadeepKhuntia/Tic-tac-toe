@@ -1,0 +1,10 @@
+.allgrid h1{
+    color: white;
+}
+.grid{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
